@@ -367,7 +367,7 @@
             <configuration>
               <rules>
                 <requireMavenVersion>
-                  <version>3.4.0</version> <!-- *********************changed originally 3.5.0**********-->
+                  <version>3.5.0</version> <!-- *********************changed originally 3.5.0**********-->
                 </requireMavenVersion>
               </rules>
             </configuration>
